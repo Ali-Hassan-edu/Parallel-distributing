@@ -22,7 +22,6 @@ A simple multi-threaded TCP server and client built with Python's `socket` and `
 ├── server.py
 ├── client.py
 ├── README.md
-└── screenshots/
     ├── 01-server-started.jpeg
     ├── 02-server-multiple-clients.jpeg
     ├── 03-client-1.jpeg
@@ -98,4 +97,4 @@ Each new connection gets its own thread. The server prints the active thread nam
 
 ## Author
 
-Add your name here.
+Ali Hassan
